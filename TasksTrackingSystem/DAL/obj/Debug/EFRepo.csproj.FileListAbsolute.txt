@@ -1,0 +1,12 @@
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\obj\Debug\DAL.dll
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\obj\Debug\DAL.pdb
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\bin\Debug\DAL.dll.config
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\bin\Debug\DAL.dll
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\bin\Debug\EntityFramework.dll
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\bin\Debug\EntityFramework.xml
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\obj\Debug\EFRepo.csprojResolveAssemblyReference.cache
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DAL\obj\Debug\EFRepo.csproj.GenerateResource.Cache

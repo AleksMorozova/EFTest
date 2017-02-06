@@ -1,0 +1,5 @@
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\DomainModel\obj\Debug\DomainModel.pdb
