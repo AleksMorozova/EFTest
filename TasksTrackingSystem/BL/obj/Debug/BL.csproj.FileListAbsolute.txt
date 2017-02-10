@@ -11,3 +11,5 @@ C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\BL\obj\D
 C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\BL\obj\Debug\BL.pdb
 C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\BL\bin\Debug\DomainModel.dll
 C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\BL\bin\Debug\DomainModel.pdb
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\BL\bin\Debug\AutoMapper.dll
+C:\Users\omor\documents\visual studio 2015\Projects\TasksTrackingSystem\BL\bin\Debug\AutoMapper.xml

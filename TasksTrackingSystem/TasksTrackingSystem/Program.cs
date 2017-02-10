@@ -1,4 +1,5 @@
-﻿using BL.Implementation;
+﻿using BL;
+using BL.Implementation;
 using DomainModel;
 using System;
 using System.Collections.Generic;
@@ -12,6 +13,7 @@ namespace TasksTrackingSystem
     {
         static void Main(string[] args)
         {
+            AutoMapperConfigurator.Configure();
             //User user = new User();
             //user.FirstName = "BL user name 2";
             //user.LastName = "BL user  last name 2";

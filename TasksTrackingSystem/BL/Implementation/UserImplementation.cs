@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DomainModel;
+using EFRepo.Model;
+using AutoMapper;
 
 namespace BL.Implementation
 {
@@ -33,6 +35,8 @@ namespace BL.Implementation
         public void SaveUser(DomainModel.User user)
         {
             EFRepo.Model.UserDB createdUser = new EFRepo.Model.UserDB();
+            var t = Mapper.Map<User, UserDB>(user);
+
 
             createdUser.FirstName = user.FirstName;
             createdUser.LastName = user.LastName;
